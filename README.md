@@ -10,8 +10,10 @@ Provides support for
 
 ## Installing 
 
+Installing the latest version:
+
 ```sh
-pip install git+https://github.com/shinarove/python-either-util
+pip install git+https://github.com/shinarove/python-either-util.git@v0.1.0
 ```
 
 ## Usage
